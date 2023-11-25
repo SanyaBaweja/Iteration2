@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{EF300762-1AB0-44EA-9B03-9FF83FA71879}|Default">
+  <MonoDevelop.Ide.ItemProperties.Iteration2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PlayerTest.cs">
+    <Files>
+      <File FileName="Player.cs" Line="18" Column="5" IsPinned="True" />
+      <File FileName="IdentifiableObject.cs" Line="10" Column="1" />
+      <File FileName="GameObject.cs" Line="24" Column="16" />
+      <File FileName="Item.cs" Line="4" Column="31" />
+      <File FileName="Inventory.cs" Line="3" Column="2" />
+      <File FileName="InventoryTest.cs" Line="3" Column="22" />
+      <File FileName="IdentifiableObjectTest.cs" Line="16" Column="6" />
+      <File FileName="ItemTest.cs" Line="3" Column="22" />
+      <File FileName="PlayerTest.cs" Line="5" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Iteration2" expanded="True">
+            <Node name="Iteration2" expanded="True">
+              <Node name="PlayerTest.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Iteration2" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

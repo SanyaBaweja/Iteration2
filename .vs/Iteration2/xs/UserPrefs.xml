@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{5657BB1E-C00C-4638-A230-80D00D354223}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Iteration2/InventoryTest.cs">
+    <Files>
+      <File FileName="Iteration2/IdentifiableObject.cs" />
+      <File FileName="Iteration2/GameObject.cs" />
+      <File FileName="Iteration2/IdentifiableObjectTest.cs" />
+      <File FileName="Iteration2/Inventory.cs" />
+      <File FileName="Iteration2/InventoryTest.cs" Line="25" Column="1" />
+      <File FileName="Iteration2/Player.cs" />
+      <File FileName="Iteration2/GlobalUsings.cs" />
+      <File FileName="Iteration2/ItemTest.cs" Line="9" Column="23" />
+      <File FileName="Iteration2/PlayerTest.cs" Line="70" Column="2" />
+      <File FileName="Iteration2/Item.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Iteration2" expanded="True">
+            <Node name="Iteration2" expanded="True">
+              <Node name="InventoryTest.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Iteration2">
+            <Node name="Iteration2" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Iteration2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
